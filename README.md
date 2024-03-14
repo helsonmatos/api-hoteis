@@ -1,2 +1,2 @@
-# api-hoteis
-API de Hotéis feita em Flask-RestFul
+# Api-hoteis
+## API de Hotéis feita em Flask-RestFul
